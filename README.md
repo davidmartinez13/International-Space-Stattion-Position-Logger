@@ -1,4 +1,4 @@
-# International-Space-Stattion-Position-Logger
+# International-Space-Station-Position-Logger
 Wrote a program that stores the location of the ISS in a CSV file in real time. 
 It creates a CSV file, if it does not exists already. If the file exists, the program should append new information at the end of the file.
 It contains: timestmap, datetime, latitude, longitude
